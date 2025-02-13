@@ -118,7 +118,7 @@ Se você quiser contribuir com mais notas, templates ou recursos, sinta-se à vo
 
 ## **Licença**
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://chat.deepseek.com/a/chat/s/LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 
